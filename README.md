@@ -3,7 +3,7 @@
 A simple and clean static website template created for Cohort 3. 
 
 ## 🚀 Live Demo
-[View the live project here](https://cohort3-templete.vercel.app/) *(Update this link if the Vercel URL is different)*
+[View the live project here](https://cohort3-templete.vercel.app/) 
 
 ## 🛠️ Tech Stack
 * **HTML5:** For the page structure and content.
